@@ -87,5 +87,5 @@ I was unable to complete this part of the challenge but I did begin implementati
 As mentioned before, I used POSHGUI to generate my GUI pieces and then modified their Add_Click() functionality to do the specific function calls. I used a single multiline textbox with scrolling to print all of the output to.
 
 ## Other Sources
-[Kevin Marquette's PowerShell resources](https://kevinmarquette.github.io/) are amazing 
-[Stack Overflow](https://stackoverflow.com/) is generally a life-saver for quick help
+- [Kevin Marquette's PowerShell resources](https://kevinmarquette.github.io/) are amazing 
+- [Stack Overflow](https://stackoverflow.com/) is generally a life-saver for quick help
