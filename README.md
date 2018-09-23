@@ -12,6 +12,7 @@ The main goals of this challenge were to
 3. List all assets that have a critical status
 4. Gives a count of unique class names, then, for every class name, lists the names of those assets that have those class names
 5. Build a visual hierarchy for a given asset id (see a tree of assets beneath that asset)
+All in 4 hours.
 
   I chose to use PowerShell for this challenge as I had experience with it at my Genworth internship and I knew it would make things like downloading files and dealing with hashtables much easier. I focused at first on doing what I saw as the easiest tasks, downloading the sample data (1), giving a count of unique class names (4) and listing all classes with critical status(3). I was able to implement code to complete these three parts of the challenge using a variety of methods. While I did not format them in a way that was super easy to read, I did put their output to a GUI that will be mentioned later.
  
@@ -84,3 +85,7 @@ I was unable to complete this part of the challenge but I did begin implementati
 
 ### GUI
 As mentioned before, I used POSHGUI to generate my GUI pieces and then modified their Add_Click() functionality to do the specific function calls. I used a single multiline textbox with scrolling to print all of the output to.
+
+## Other Sources
+[Kevin Marquette's PowerShell resources](https://kevinmarquette.github.io/) are amazing 
+[Stack Overflow](https://stackoverflow.com/) is generally a life-saver for quick help
