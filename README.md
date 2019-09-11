@@ -6,6 +6,7 @@ The main goals of this challenge were to
 3. List all assets that have a critical status
 4. Gives a count of unique class names, then, for every class name, lists the names of those assets that have those class names
 5. Build a visual hierarchy for a given asset id (see a tree of assets beneath that asset)
+
 All in 4 hours.
 
 ## Running the script:
